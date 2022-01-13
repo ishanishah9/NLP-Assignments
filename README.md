@@ -1,4 +1,4 @@
-# SMS_spam_classification
+# Spam_SMS_Classification
 
 <h1>Context</h1>
 
